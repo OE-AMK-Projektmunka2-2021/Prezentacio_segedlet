@@ -1,5 +1,11 @@
 # Segédlet a prezentáció elkészítéséhez
 
+## Teams
+
+Teams link: https://teams.microsoft.com/l/channel/19%3azrLDD3GzwixsemfmSmLxHWL6hiNpJ_CSghLk7bww3Is1%40thread.tacv2/General?groupId=16fa8d8d-c391-48f9-bb23-d0961a3ece38&tenantId=1d6a56fa-705a-4bbc-8004-67a21d5e9b97
+
+Teams kód: p6u7hpg
+
 ## Általános információk, javaslatok
 
 A prezentációt tetszőlegesen választott prezentációkészítő programmal kell elkészíteni (pl. Office PowerPoint, LibreOffice Impress, LaTeX Beamer stb.).
